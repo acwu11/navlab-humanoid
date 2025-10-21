@@ -1,1 +1,3 @@
-# navlab-humanoid
+# Humanoid Navigation 
+
+## Startup 
